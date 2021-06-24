@@ -7,11 +7,11 @@ p {
 
 a:link {
   font-family: "Montserrat", sans-serif;
-  color:darkviolet;
+  color:green;
 }
 
 a:visited{
-    color:green;
+    color:darkviolet;
 }
 
 .textCard {
